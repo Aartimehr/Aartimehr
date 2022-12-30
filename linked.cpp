@@ -34,7 +34,7 @@ int main()
     
     one->next = two;
     two->next = three;
-    three->four = five;
+    three->next = four;
     five->next = NULL;
      
     //save address of first node in head
