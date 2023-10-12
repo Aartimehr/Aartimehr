@@ -1,5 +1,4 @@
-- 👋 Hi, I'am Aarti Mehra and currently learning so that i can face  "crowd".
-learner and hope so learning );<🧑‍🦰
+- 👋 Hi, I'am Aarti Mehra and i know ow to how to print "HELLO WORLD".<🧑‍🦰
 
 
 
