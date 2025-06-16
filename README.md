@@ -1,14 +1,9 @@
-# I'm Aarti Mehra, 
-<img align="right" src="https://komarev.com/ghpvc/?username=Aartimehr&label=Profile%20views&color=0e75b6&style=flat" alt="Aartimehr" /> 
+🎓 B.Tech CSE | Aspiring Data Analyst  
+📊 Skilled in Python, SQL, Excel, Pandas, Tableau  
+📈 Completed Google Data Analytics Certificate  
+💡 Passionate about turning data into actionable insights  
+📬 work11aarti@gmail.com  
 
-
-
-<div align="center">
-
----
-
-
-</div>
 
 
 
