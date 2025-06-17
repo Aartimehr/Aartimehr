@@ -5,11 +5,11 @@
 📬 work11aarti@gmail.com  
 ### 📊 GitHub Stats
 
-![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aartimehr&show_icons=true&theme=default)
+![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aartimehr&show_icons=true&theme=dark)
 
 ### 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aartimehr&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aartimehr&layout=compact&theme=dark)
 
 
 
