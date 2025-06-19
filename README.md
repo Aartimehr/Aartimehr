@@ -2,7 +2,8 @@
 📊 Skilled in Python, SQL, Excel, Pandas, Tableau  
 📈 Completed Google Data Analytics Certificate  
 💡 Passionate about turning data into actionable insights  
-📬 work11aarti@gmail.com  
+Mail id- work11aarti@gmail.com  
+My Portfolio - https://aartimehr.github.io/Myportfolio/
 ### 📊 GitHub Stats
 
 ![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aartimehr&show_icons=true&theme=dark)
