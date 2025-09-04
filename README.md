@@ -1,4 +1,4 @@
-🎓 B.Tech CSE | Aspiring Data Analyst  
+🎓 B.Tech CSE 
 💡 Passionate about turning data into actionable insights  
 Mail id- work11aarti@gmail.com  
 My Portfolio - https://aartimehr.github.io/Myportfolio/
