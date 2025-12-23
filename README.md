@@ -1,7 +1,8 @@
 🎓 B.Tech CSE 
-💡 Passionate about turning data into actionable insights  
-Mail id- work11aarti@gmail.com  
-Kaggle Profile - https://www.kaggle.com/aarti1110
+💡Aspiring DevOps Engineer | Automating Infrastructure & CI/CD Pipelines | AWS Cloud Operations | Docker & SQL  
+Mail id-mehra11aarti@gmail.com  
+PortFolio Link:https://portfolio-zeta-cyan-3onmiekhqd.vercel.app/
+
 ### 📊 GitHub Stats
 
 ![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aartimehr&show_icons=true&theme=dark)
