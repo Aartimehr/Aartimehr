@@ -1,5 +1,5 @@
 🎓 B.Tech CSE 
-💡Aspiring DevOps Engineer | Automating Infrastructure & CI/CD Pipelines | AWS Cloud Operations | Docker & SQL  
+💡Aspiring Full Stack Developer| Automating Infrastructure & CI/CD Pipelines | AWS Cloud Operations | Docker & SQL  
 Mail id-mehra11aarti@gmail.com  
 PortFolio Link:https://portfolio-zeta-cyan-3onmiekhqd.vercel.app/
 
