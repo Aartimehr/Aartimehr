@@ -9,7 +9,7 @@ PortFolio Link:https://portfolio-zeta-cyan-3onmiekhqd.vercel.app/
 
 ### 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aartimehr&layout=compact&theme=dark)
+![Top Langs](https://portfolio-mzew.vercel.app/)
 
 
 
