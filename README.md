@@ -1,15 +1,13 @@
 🎓 B.Tech CSE 
 💡Aspiring Full Stack Developer| Automating Infrastructure & CI/CD Pipelines | AWS Cloud Operations | Docker & SQL  
 Mail id-mehra11aarti@gmail.com  
-PortFolio Link:https://portfolio-zeta-cyan-3onmiekhqd.vercel.app/
+PortFolio Link :https://portfolio-mzew.vercel.app/
 
 ### 📊 GitHub Stats
 
 ![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aartimehr&show_icons=true&theme=dark)
 
-### 🔝 Top Languages
-
-![Top Langs](https://portfolio-mzew.vercel.app/)
+#
 
 
 
